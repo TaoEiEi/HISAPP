@@ -1,0 +1,54 @@
+D:\CU\Project\Control and manage Pc\DBC01\bin\Release\net8.0-windows7.0\DBC01.exe
+D:\CU\Project\Control and manage Pc\DBC01\bin\Release\net8.0-windows7.0\DBC01.deps.json
+D:\CU\Project\Control and manage Pc\DBC01\bin\Release\net8.0-windows7.0\DBC01.runtimeconfig.json
+D:\CU\Project\Control and manage Pc\DBC01\bin\Release\net8.0-windows7.0\DBC01.dll
+D:\CU\Project\Control and manage Pc\DBC01\bin\Release\net8.0-windows7.0\DBC01.pdb
+D:\CU\Project\Control and manage Pc\DBC01\obj\Release\net8.0-windows7.0\DBC01.Form1.resources
+D:\CU\Project\Control and manage Pc\DBC01\obj\Release\net8.0-windows7.0\DBC01.csproj.GenerateResource.cache
+D:\CU\Project\Control and manage Pc\DBC01\obj\Release\net8.0-windows7.0\DBC01.GeneratedMSBuildEditorConfig.editorconfig
+D:\CU\Project\Control and manage Pc\DBC01\obj\Release\net8.0-windows7.0\DBC01.AssemblyInfoInputs.cache
+D:\CU\Project\Control and manage Pc\DBC01\obj\Release\net8.0-windows7.0\DBC01.AssemblyInfo.cs
+D:\CU\Project\Control and manage Pc\DBC01\obj\Release\net8.0-windows7.0\DBC01.csproj.CoreCompileInputs.cache
+D:\CU\Project\Control and manage Pc\DBC01\obj\Release\net8.0-windows7.0\DBC01.dll
+D:\CU\Project\Control and manage Pc\DBC01\obj\Release\net8.0-windows7.0\refint\DBC01.dll
+D:\CU\Project\Control and manage Pc\DBC01\obj\Release\net8.0-windows7.0\DBC01.pdb
+D:\CU\Project\Control and manage Pc\DBC01\obj\Release\net8.0-windows7.0\DBC01.genruntimeconfig.cache
+D:\CU\Project\Control and manage Pc\DBC01\obj\Release\net8.0-windows7.0\ref\DBC01.dll
+D:\CU\Project\Control and manage Pc\DBC01\bin\Release\net8.0-windows7.0\Newtonsoft.Json.dll
+D:\CU\Project\Control and manage Pc\DBC01\obj\Release\net8.0-windows7.0\DBC01.csproj.AssemblyReference.cache
+D:\CU\Project\Control and manage Pc\DBC01\obj\Release\net8.0-windows7.0\DBC01.csproj.Up2Date
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\DBC01.exe
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\DBC01.deps.json
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\DBC01.runtimeconfig.json
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\DBC01.dll
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\DBC01.pdb
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\Microsoft.Web.WebView2.Core.dll
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\Microsoft.Web.WebView2.Core.xml
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\user\Desktop\DBC01\obj\Release\net8.0-windows7.0\DBC01.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DBC01\obj\Release\net8.0-windows7.0\DBC01.Form2.resources
+C:\Users\user\Desktop\DBC01\obj\Release\net8.0-windows7.0\DBC01.csproj.GenerateResource.cache
+C:\Users\user\Desktop\DBC01\obj\Release\net8.0-windows7.0\DBC01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DBC01\obj\Release\net8.0-windows7.0\DBC01.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DBC01\obj\Release\net8.0-windows7.0\DBC01.AssemblyInfo.cs
+C:\Users\user\Desktop\DBC01\obj\Release\net8.0-windows7.0\DBC01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DBC01\obj\Release\net8.0-windows7.0\DBC01.csproj.Up2Date
+C:\Users\user\Desktop\DBC01\obj\Release\net8.0-windows7.0\DBC01.dll
+C:\Users\user\Desktop\DBC01\obj\Release\net8.0-windows7.0\refint\DBC01.dll
+C:\Users\user\Desktop\DBC01\obj\Release\net8.0-windows7.0\DBC01.pdb
+C:\Users\user\Desktop\DBC01\obj\Release\net8.0-windows7.0\DBC01.genruntimeconfig.cache
+C:\Users\user\Desktop\DBC01\obj\Release\net8.0-windows7.0\ref\DBC01.dll
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\System.Private.Windows.Core.dll
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\System.Runtime.Serialization.Formatters.dll
+C:\Users\user\Desktop\DBC01\bin\Release\net8.0-windows7.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\DBC01\obj\Release\net8.0-windows7.0\DBC01.IniFile.resources

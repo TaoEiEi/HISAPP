@@ -1,0 +1,5 @@
+D:\CU\Project\Control and manage Pc\DBC01\bin\publish\DBC01.exe
+D:\CU\Project\Control and manage Pc\DBC01\bin\publish\DBC01.dll
+D:\CU\Project\Control and manage Pc\DBC01\bin\publish\DBC01.deps.json
+D:\CU\Project\Control and manage Pc\DBC01\bin\publish\DBC01.runtimeconfig.json
+D:\CU\Project\Control and manage Pc\DBC01\bin\publish\DBC01.pdb
